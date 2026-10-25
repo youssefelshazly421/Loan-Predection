@@ -76,13 +76,16 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · joblib · 
 
 ## 📈 Results
 
+## 📈 Results
+
 | Model | Accuracy | Precision | Recall | F1-score | ROC-AUC |
 |---|---|---|---|---|---|
-| Logistic Regression | _fill in_ | _fill in_ | _fill in_ | _fill in_ | _fill in_ |
-| Random Forest | _fill in_ | _fill in_ | _fill in_ | _fill in_ | _fill in_ |
-| Gradient Boosting | _fill in_ | _fill in_ | _fill in_ | _fill in_ | _fill in_ |
+| Logistic Regression | 0.9145 | 0.9210 | 0.9435 | 0.9321 | 0.9726 |
+| Random Forest | 0.9813 | 0.9849 | 0.9849 | 0.9849 | 0.9986 |
+| **Gradient Boosting** | **0.9824** | 0.9831 | **0.9887** | **0.9859** | 0.9976 |
 
-> Replace the placeholders with the values from your `results_df` table in the notebook.
+**Best model:** Gradient Boosting (selected by F1-score), saved as `best_loan_model.joblib`.
+
 
 ## 🔍 Key Insights
 
