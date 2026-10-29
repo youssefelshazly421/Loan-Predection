@@ -76,8 +76,6 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · joblib · 
 
 ## 📈 Results
 
-## 📈 Results
-
 | Model | Accuracy | Precision | Recall | F1-score | ROC-AUC |
 |---|---|---|---|---|---|
 | Logistic Regression | 0.9145 | 0.9210 | 0.9435 | 0.9321 | 0.9726 |
